@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Removes all spaces from a string",
   "license": "MIT",
-  "repository": "fancn21th/tiny",
+  "repository": "https://github.com/fancn21th/tiny",
   "main": "index.js",
   "keywords": [
     "npm",
