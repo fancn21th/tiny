@@ -1,6 +1,6 @@
 {
   "name": "@fancn21th/tiny",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Removes all spaces from a string",
   "license": "MIT",
   "repository": "https://github.com/fancn21th/tiny",
